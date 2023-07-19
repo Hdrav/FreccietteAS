@@ -1,0 +1,37 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\source\\dartsunreal\\mysortinglibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\intermediate\\build\\win64\\x64\\dartsunrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dartsunreal\\definitions.dartsunreal.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\iostream",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\istream",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\ostream",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\ios",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xlocnum",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\iterator",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\streambuf",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xiosbase",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\share.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\system_error",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\__msvc_system_error_abi.hpp",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\cerrno",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\stdexcept",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xcall_once.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xerrc.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xlocale",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xfacet",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xlocinfo",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xlocinfo.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\cctype",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\clocale",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\locale.h",
+            "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\source\\dartsunreal\\mysortinglibrary.h",
+            "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\dartsunreal\\uht\\mysortinglibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DartsUnreal",
+			"Path": "D:\\digital designer and animator\\stage\\FreccietteAS\\DartsUnreal\\Source\\DartsUnreal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DartsUnrealEditor",
+			"Path": "D:\\digital designer and animator\\stage\\FreccietteAS\\DartsUnreal\\Source\\DartsUnrealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DartsUnreal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\Intermediate\Build\Win64\x64\DartsUnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\DartsUnreal\DartsUnreal.init.gen.cpp.obj"
+"D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\DartsUnreal\MySortingLibrary.gen.cpp.obj"
+"D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\DartsUnreal\DartsUnreal.cpp.obj"
+"D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\DartsUnreal\MySortingLibrary.cpp.obj"
+"D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\DartsUnreal\Default.rc2.res"
+/OUT:"D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\DartsUnreal\UnrealEditor-DartsUnreal.lib"

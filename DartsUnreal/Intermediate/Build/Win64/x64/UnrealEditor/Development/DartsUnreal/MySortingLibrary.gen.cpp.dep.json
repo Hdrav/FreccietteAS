@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\dartsunreal\\uht\\mysortinglibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\intermediate\\build\\win64\\x64\\dartsunrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dartsunreal\\definitions.dartsunreal.h",
+            "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\source\\dartsunreal\\mysortinglibrary.h",
+            "d:\\digital designer and animator\\stage\\freccietteas\\dartsunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\dartsunreal\\uht\\mysortinglibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

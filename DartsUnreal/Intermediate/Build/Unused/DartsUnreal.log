@@ -1,0 +1,12 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" DartsUnrealEditor Win64 Development -Project="D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\DartsUnreal.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\Andres\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\digital designer and animator\stage\FreccietteAS).
+  Invalidating makefile for DartsUnrealEditor (working set of source files changed)
+  Parsing headers for DartsUnrealEditor
+    Running Internal UnrealHeaderTool "D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\DartsUnreal.uproject" "D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\Intermediate\Build\Win64\DartsUnrealEditor\Development\DartsUnrealEditor.uhtmanifest" -WarningsAsErrors -installed
+  Total of 2 written
+  Reflection code generated for DartsUnrealEditor in 2.8277116 seconds
+D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\Source\DartsUnreal\MySortingLibrary.cpp(1): error : Expected MySortingLibrary.h to be first header included.
+  Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: uscita dal comando "D:\UE_5.2\Engine\Build\BatchFiles\Build.bat DartsUnrealEditor Win64 Development -Project="D:\digital designer and animator\stage\FreccietteAS\DartsUnreal\DartsUnreal.uproject" -WaitMutex -FromMsBuild" con codice 6.

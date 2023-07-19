@@ -5,11 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/Blueprints/ModelBlueprints/GameModel.uasset",
 				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/Blueprints/ModelBlueprints/Player.uasset",
-				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/Blueprints/ModelBlueprints/Baloons.uasset",
-				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/Blueprints/ModelBlueprints/Baloon.uasset"
+				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/Blueprints/ModelBlueprints/Baloon.uasset",
+				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/Blueprints/ModelBlueprints/PlayerModel.uasset",
+				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/Blueprints/ControlBlueprints/StandardGamemode.uasset",
+				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/digital designer and animator/stage/FreccietteAS/DartsUnreal/Content/StarterContent/Blueprints/ModelBlueprints/Baloons.uasset"
 			]
 		}
 	]
